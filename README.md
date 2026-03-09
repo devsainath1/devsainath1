@@ -9,21 +9,16 @@ Currently focused on **Java backend development, cloud-native systems, and enter
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **Organization Management / Office Buddy Software**
-- 🌱 Learning **Docker, Kubernetes, Microservices**
-- 💡 Interested in **Enterprise Software, Automation, DevOps**
-- 🏢 Working on **HRMS, Payroll, Attendance Systems**
-- 📱 Exploring **Mobile App + Backend integrations**
-- ⚡ Fun fact: I love optimizing **SQL queries & backend systems**
+- 🔭 Currently building Organization Management Software
+- 🌱 Learning Docker, Kubernetes, Microservices
+- 💡 Interested in Enterprise Software, Automation, DevOps, AI/ML
 
 ---
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🗄 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
