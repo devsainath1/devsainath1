@@ -1,55 +1,72 @@
-# Hi there 👋 I'm S Panpatte
+# Hi there 👋 I'm Sainath Panpatte
 
-💻 Full Stack Developer | ☕ Java Enthusiast | 🐳 DevOps Learner | 🚀 Problem Solver  
+💻 **Software Engineer** | ⚙️ **Go, Java, Python Developer** | ☁️ **System Design | Distributed Systems** | 🚀 **Building Scalable Backend Platforms**
 
-I am a passionate developer who loves building scalable applications and automation tools.  
-Currently focused on **Java backend development, cloud-native systems, and enterprise tools.**
+Backend-focused software engineer passionate about designing scalable systems, building high-performance APIs, and solving complex business problems across enterprise applications.
+
+Currently focused on **Go microservices, Java backend systems, GraphQL architecture, distributed systems, cloud integrations, and mobile-backend platforms.**
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building Organization Management Software
-- 🌱 Learning Docker, Kubernetes, Microservices
-- 💡 Interested in Enterprise Software, Automation, DevOps, AI/ML
+- 🔭 Building scalable enterprise backend systems  
+- ⚙️ Working with Go, Java, GraphQL, PostgreSQL, Redis  
+- 🌱 Exploring Kubernetes, cloud-native architecture, distributed systems  
+- 💡 Interested in backend engineering, platform architecture, and system scalability  
+- 🚀 Focused on writing clean, maintainable, production-grade code  
 
 ---
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄 Database
+### 🗄 Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ⚙️ DevOps
+### ⚙️ Backend & Architecture
+
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=googlecloud&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-005571?style=for-the-badge)
+
+### ☁️ DevOps & Infra
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### 🛠 Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yadav-shubh&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yadav-shubh&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- 📧 Email: your@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/shubham-yadav-java/
+- 📧 Email: shybham36@gmail.com
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From **DevSainath1**
