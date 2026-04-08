@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sainath Panpatte
 
-💻 **Software Engineer** | ⚙️ **Go, Java, Python Developer** | ☁️ **System Design | Distributed Systems** | 🚀 **Building Scalable Backend Platforms**
+💻 **Backend Software Engineer** | ⚙️ **Go, Java, Python** | ☁️ **Distributed Systems | System Design** | 🚀 **Scalable Backend Platforms**
 
 Backend-focused software engineer passionate about designing scalable systems, building high-performance APIs, and solving complex business problems across enterprise applications.
 
@@ -14,7 +14,7 @@ Currently focused on **Go microservices, Java backend systems, GraphQL architect
 - ⚙️ Working with Go, Java, GraphQL, PostgreSQL, Redis  
 - 🌱 Exploring Kubernetes, cloud-native architecture, distributed systems  
 - 💡 Interested in backend engineering, platform architecture, and system scalability  
-- 🚀 Focused on writing clean, maintainable, production-grade code  
+- 🚀 Writing clean, maintainable, production-grade code  
 
 ---
 
@@ -52,21 +52,25 @@ Currently focused on **Go microservices, Java backend systems, GraphQL architect
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devsainath1h&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devsainath1&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🔥 Top Languages
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devsainath1&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsainath1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sainathp1/
-- 📧 Email: sainathpanpatte1@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sainathp1/  
+- 📧 Email: sainathpanpatte1@gmail.com  
 
 ---
 
-⭐️ From **DevSainath1**
+⭐️ From **devsainath1**
